@@ -9,7 +9,7 @@ Manchmal (speziell wenn ich sie länger nicht benutzt habe) desinfiziere ich auc
 
 ### Vorbereitung
 
-- Alle Zutaten für das Fermantationsglas heiß abwaschen. Nicht kochen! Es soll nur die Bakterien reduziert werden.
+- Alle Zutaten für das Fermantationsglas heiß abwaschen. Nicht kochen! Es sollen nur die Bakterien reduziert werden.
 - Fermentierungsgefäß mit heißen Wasser ausspülen.
 
 ### Zutaten Fermentierung
