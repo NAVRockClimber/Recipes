@@ -43,3 +43,7 @@ Jetzt werden die gemörserten Zutaten und das fermentierte Gemüse in eine Schü
 - 1-2 TL Kurkuma
 
 Alles in sauber (siehe oben) Glässer abfüllen, gut verschließen und im Kühlschrank lagern.
+
+## Ideen
+
+Senfkörner schon bei der Fermentierung mit in das Glas geben.
