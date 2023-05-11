@@ -1,5 +1,6 @@
 # Fermentierte Chilisauce
 
+![image](images/chilisauce/IMG_20211127_173437.jpg)
 ## Fermentierung
 
 Für die Fermentierung muss sehr hygienisch gearbeitet werden. Am besten mit Einmalhandschuhen und sauberen Geräten.
@@ -44,6 +45,7 @@ Jetzt werden die gemörserten Zutaten und das fermentierte Gemüse in eine Schü
 
 Alles in sauber (siehe oben) Gläser abfüllen, gut verschließen und im Kühlschrank lagern.
 
+![image](images/chilisauce/IMG_20230511_185609383.jpg)
 ## Ideen
 
 Senfkörner schon bei der Fermentierung mit in das Glas geben.
