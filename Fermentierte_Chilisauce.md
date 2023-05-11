@@ -42,7 +42,7 @@ Jetzt werden die gemörserten Zutaten und das fermentierte Gemüse in eine Schü
 - 1 EL Koriander
 - 1-2 TL Kurkuma
 
-Alles in sauber (siehe oben) Glässer abfüllen, gut verschließen und im Kühlschrank lagern.
+Alles in sauber (siehe oben) Gläser abfüllen, gut verschließen und im Kühlschrank lagern.
 
 ## Ideen
 
