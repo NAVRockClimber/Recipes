@@ -1,17 +1,19 @@
 # Currysauce
 
+Leckere Currysauce, die lecker zur klassischen Currywurst schmeckt.
+
 ## Zutaten
 
-750ml Ketchup 
-1TL Currypaste rot
-1 gehäufter EL Currypulver gelb (englisch)
-1 EL Geräuchertes Paprikapulver
-1 Zwiebel 
-1 Knoblauchzehe 
-1 Chili
-200ml Cola
-2 EL Tomatenmark 
-200ml Wasser
+- 750ml Ketchup 
+- 1TL Currypaste rot
+- 1 gehäufter EL Currypulver gelb (englisch)
+- 1 EL Geräuchertes Paprikapulver
+- 1 Zwiebel 
+- 1 Knoblauchzehe 
+- 1 Chili
+- 200ml Cola
+- 2 EL Tomatenmark 
+- 200ml Wasser
 
 ## Zubereitung
 
