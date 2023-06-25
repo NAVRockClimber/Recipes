@@ -4,24 +4,24 @@
 
 ### Braten
 
-- 1kg Hackfleisch gemischt
-- 2 Paprika 
-- 2 Zwiebeln
-- 100g Oliven
-- 2 Eier
-- 100g Fetakäse 
-- 100g Paniermehl 
-- 2 Knoblauchzehen 
-- 2 Zweige Rosmarin 
-- 2 EL Paprikapulver geräuchert 
+- 500g Hackfleisch gemischt
+- 1 Paprika 
+- 1 Zwiebeln
+- 50g Oliven
+- 1 Eier
+- 50g Fetakäse 
+- 50g Paniermehl 
+- 1 Knoblauchzehen 
+- 1 Zweige Rosmarin 
+- 1 TL Paprikapulver geräuchert 
 - Salz
 
 ### Glasur / Lack
 
-- 2 EL BBQ Sauce / Ketchup
-- 1 EL Teriyaikisauce
-- 1 EL Ahornsirup
-- 2 entkernte Tomaten
+- 1 EL BBQ Sauce / Ketchup
+- 0,5 EL Teriyaikisauce
+- 0,5 EL Ahornsirup
+- 1 entkernte Tomaten
 
 ## Zubereitung 
 
