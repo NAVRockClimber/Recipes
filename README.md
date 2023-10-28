@@ -8,3 +8,4 @@ Mostly this will be in German. Maybe I translate using some AI tooling.
 3) [Mustard](Mustard.md)
 4) [Currysauce](Currysauce.md)
 5) [Hackbraten](Hackbraten.md)
+6) [Kartoffelsuppe](Kartoffelsuppe.md)
