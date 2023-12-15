@@ -9,3 +9,4 @@ Mostly this will be in German. Maybe I translate using some AI tooling.
 4) [Currysauce](Currysauce.md)
 5) [Hackbraten](Hackbraten.md)
 6) [Kartoffelsuppe](Kartoffelsuppe.md)
+7) [Spaghetti Carbonara](Spagehtti_Carbonara.md)
