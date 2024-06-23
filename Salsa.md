@@ -35,7 +35,7 @@ Fein Pürieren:
 - 2 Chipotle 
 - 1 Bund Koriander
 
-Reste mit Pulse-Funktion grob anpürieren. Danach in ein Schale umfüllen und die angebratene Paprika unterheben.
+Reste mit Pulse-Funktion grob anpürieren. Danach in ein Schale umfüllen und die angebratene Paprika und gewürfelten Tomaten unterheben.
 
 
 Nachos
