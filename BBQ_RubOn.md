@@ -1,12 +1,12 @@
 # BBQ RubOn
 
 **Kaffee Rub:**
+- 1/2 TL Pfeffer (in der Pfanne ohen Fett erhitzen und dann mörsern)
 - 1TL Knoblauchpulver
 - 1/2 TL Kreuzkümmel
 - 1 TL Salz
 - 1TL Zucker
 - 1 EL Kaffee (Prütt)
-- 1/2 TL Pfeffer
 
 **Paprika Rub:**
 - 1 TL Knoblauchpulver
