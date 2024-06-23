@@ -17,6 +17,7 @@ Zutaten:
 - 1 Limette
 - 1 Zitrone
 - 1 TL Kreuzkümmel
+- 3 Zehen Knoblauch
 - Olivenöl
 - Salz
 
@@ -25,7 +26,7 @@ Teil der Paprika fein würfeln, anbraten und leicht salzen und 1 TL Kreuzkümmel
 
 Fein Pürieren:
 - 4 1/2 Tomaten
-- Knoblauch
+- 3 Zehen Knoblauch
 - Abrieb 1 Zitrone und Saft
 - Abrieb 1 Limette und Saft
 - 3 Jalapeños Chili
