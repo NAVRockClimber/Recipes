@@ -14,3 +14,4 @@ Mostly this will be in German. Maybe I translate using some AI tooling.
 9) [BBQ Rub-On](BBQ_RubOn.md)
 10) [Linsenbällchen/Falafel](Linsenbällchen.md)
 11) [Salsa](Salsa.md)
+12) [Joghurt-Hähnchen](Joghurt-Hähnchen.md)
