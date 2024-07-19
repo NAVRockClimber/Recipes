@@ -15,3 +15,4 @@ Mostly this will be in German. Maybe I translate using some AI tooling.
 10) [Linsenbällchen/Falafel](Linsenbällchen.md)
 11) [Salsa](Salsa.md)
 12) [Joghurt-Hähnchen](Joghurt-Hähnchen.md)
+14) [Chili con Carne](Chili_con_Carne.md)
