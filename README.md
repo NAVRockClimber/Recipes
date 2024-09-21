@@ -17,3 +17,4 @@ Mostly this will be in German. Maybe I translate using some AI tooling.
 12) [Joghurt-Hähnchen](Joghurt-Hähnchen.md)
 14) [Chili con Carne](Chili_con_Carne.md)
 15) [Hähnchenspieße in Joghurt-Marinade](Hähnchenspieße_in_Joghurt_Marinade.md)
+16) [Pfannkuchen von Mama](Pfannkuchen_von_Mama.md)
