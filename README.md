@@ -18,3 +18,4 @@ Mostly this will be in German. Maybe I translate using some AI tooling.
 14) [Chili con Carne](Chili_con_Carne.md)
 15) [Hähnchenspieße in Joghurt-Marinade](Hähnchenspieße_in_Joghurt_Marinade.md)
 16) [Pfannkuchen von Mama](Pfannkuchen_von_Mama.md)
+17) [Pizza Brötchen von Mama](Pizza-Baguette.md)
