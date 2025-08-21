@@ -92,3 +92,5 @@ Den Auflauf für ca. **15 Minuten** backen, bis der Käse schön goldbraun ist.
 (Optional) Mit frischem Basilikum servieren.
 
 ---
+
+Quelle: https://kochketo.de/mediterraner-keto-haehnchen-feta-auflauf/
