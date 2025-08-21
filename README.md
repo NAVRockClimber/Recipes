@@ -1,4 +1,5 @@
 # Recipes
+
 My self-invented recipes and maybe some more
 
 Mostly this will be in German. Maybe I translate using some AI tooling.
@@ -19,3 +20,4 @@ Mostly this will be in German. Maybe I translate using some AI tooling.
 15) [Hähnchenspieße in Joghurt-Marinade](Hähnchenspieße_in_Joghurt_Marinade.md)
 16) [Pfannkuchen von Mama](Pfannkuchen_von_Mama.md)
 17) [Pizza Brötchen von Mama](Pizza-Baguette.md)
+18) [Mediterraner Hähnchen-Feta Auflauf](Mediterraner_Hähnchen-Feta_Auflauf.md)
