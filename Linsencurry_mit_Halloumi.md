@@ -10,6 +10,7 @@ Für 2-4 Personen
 5. 2 EL Tomatenmark
 6. 1 TL Currypulver eurer Wahl
 7. 100g Linsen rot
+7. 100g Linsen gelb
 8. 100g Belugalinsen
 9. Koriander( optional)
 10. Salz
