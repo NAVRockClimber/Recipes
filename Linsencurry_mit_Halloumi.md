@@ -3,8 +3,8 @@
 Für 2-4 Personen
 
 ## Zutaten: 
-1. Zwiebel
-2. Knoblauchzehen 
+1. 1 Zwiebel
+2. 2 Knoblauchzehen 
 3. 500ml Kokosmilch
 4. 1 TL Currypaste rot
 5. 2 EL Tomatenmark
