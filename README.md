@@ -22,3 +22,4 @@ Mostly this will be in German. Maybe I translate using some AI tooling.
 17) [Pizza Brötchen von Mama](Pizza-Baguette.md)
 18) [Mediterraner Hähnchen-Feta Auflauf](Mediterraner_Hähnchen-Feta_Auflauf.md)
 19) [Linsencurry mit Halloumi](Linsencurry_mit_Halloumi.md)
+20) [Ragù alla Bolognese](Ragu_alla_Bolognese.md)
